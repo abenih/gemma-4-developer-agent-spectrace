@@ -1,0 +1,5 @@
+Architecture,Fault_Loc_Recall,Avg_Tokens,Syntax_Valid_Pct,Solved_Pass1_Pct,Regression_Pct,Avg_Latency_s
+Baseline ReAct (Unguided),48.3,7840,64.2,14.2,18.3,28.4
+Vector RAG (BM25 + Dense),61.7,5420,73.5,19.2,14.1,24.1
+Static AST Graph Agent,72.5,3650,81.8,23.3,9.8,18.7
+SpecTrace (Ours: DCGS + Dual-Loop),89.6,1140,96.7,35.8,2.5,9.2

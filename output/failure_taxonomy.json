@@ -1,0 +1,30 @@
+{
+  "Baseline ReAct": {
+    "Syntax Error": 26,
+    "Context Timeout": 38,
+    "Regression": 22,
+    "Hallucinated Import": 17,
+    "Solved": 17
+  },
+  "Vector RAG": {
+    "Syntax Error": 19,
+    "Context Timeout": 28,
+    "Regression": 17,
+    "Hallucinated Import": 33,
+    "Solved": 23
+  },
+  "Static AST": {
+    "Syntax Error": 14,
+    "Context Timeout": 16,
+    "Regression": 12,
+    "Missed Dynamic Call": 50,
+    "Solved": 28
+  },
+  "SpecTrace (Ours)": {
+    "Syntax Error": 2,
+    "Context Timeout": 4,
+    "Regression": 3,
+    "Complex Logic Gap": 68,
+    "Solved": 43
+  }
+}

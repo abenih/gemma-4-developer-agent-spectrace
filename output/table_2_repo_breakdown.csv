@@ -1,0 +1,5 @@
+Repository,Baseline,Vector_RAG,Static_AST,SpecTrace
+fastapi,10.0,16.7,20.0,36.7
+requests,20.0,23.3,30.0,43.3
+rich,13.3,20.0,23.3,33.3
+httpx,13.3,16.7,20.0,30.0
