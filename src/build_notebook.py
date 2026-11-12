@@ -423,3 +423,4 @@ with open(out_path, 'w') as f:
 
 size_kb = os.path.getsize(out_path) / 1024
 print(f"Submission notebook built at {out_path} ({size_kb:.2f} KB)")
+

@@ -255,3 +255,4 @@ if __name__ == '__main__':
     generate_figure_5()
     generate_figure_6()
     generate_thumbnail()
+
